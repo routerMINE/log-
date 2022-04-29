@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: LoggerMod-main
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2022-04-29T16:22:13+0400
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
